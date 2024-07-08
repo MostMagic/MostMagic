@@ -1,6 +1,6 @@
 ### Hi there! Meu nome é Rhuan Reis prazer em conheçe-lo 👋
 
-##   -- Redes Sociais --
+###  -- Redes Sociais --
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhuan.log/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/most-magic-3503a126b/)
 
@@ -11,7 +11,7 @@
 
 • Cada dia aprendendo coisas novas 🖥️
 
-### Tecnologias
+## Tecnologias
 <div>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
