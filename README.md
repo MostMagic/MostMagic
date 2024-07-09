@@ -5,14 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/most-magic-3503a126b/)
 
 <table>
-  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=MostMagic&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostMagic&layout=compact&theme=github_dark" alt="Top Langs">
     </td>
-  </tr>
 </table>
 
 • Tentando ser um programador ✍️
